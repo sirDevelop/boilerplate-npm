@@ -1,6 +1,6 @@
 {
-	"author": "Cheng Wang",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Cheng Wang",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
